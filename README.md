@@ -10,11 +10,9 @@
 I’m working toward becoming a versatile **software engineer** with strong analytical and technical skills.  
 I’m especially interested in:  
 
-- 🤖 **Machine learning and data-driven insights**  
-- 🛠️ **Full-stack development**  
 - 🎮 **Game development and interactive design**  
-- 🔐 **Cybersecurity and systems architecture**  
-
+- 🔐 **Cybersecurity and systems architecture**
+- 
 ---
 
 ## ⚙️ Tools & Technologies  
