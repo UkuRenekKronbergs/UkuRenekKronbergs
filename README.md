@@ -5,17 +5,6 @@
 
 ---
 
-## 🧠 What I’m Learning  
-
-- 🐍 **Python programming and data analysis**  
-- ⚙️ **Algorithms and data structures**  
-- 🧩 **Web development (JavaScript, Vue.js, Node.js)**  
-- ☕ **Java and object-oriented design**  
-- 🎮 **Game development with Unity & Unreal Engine**  
-- 📊 **SQL and data visualization (plotnine, pandas)**  
-
----
-
 ## 💡 Interests & Goals  
 
 I’m working toward becoming a versatile **software engineer** with strong analytical and technical skills.  
@@ -31,9 +20,9 @@ I’m especially interested in:
 ## ⚙️ Tools & Technologies  
 
 - 💬 **Languages:** Python, Java, JavaScript, SQL  
-- 🔧 **Version control:** Git, GitHub  
-- 🖥️ **Editors:** VS Code, IntelliJ IDEA, Rider  
-- 🧰 **Other:** Linux, Docker, Postman  
+- 🔧 **Version control:** Git, GitHub, GitLab  
+- 🖥️ **Editors:** VS Code
+- 🧰 **Other:** Linux, Docker,
 - 🎮 **Game Engines:** Unity, Unreal Engine  
 
 ---
@@ -72,7 +61,4 @@ I’m especially interested in:
 ## 🤝 Connect with Me  
 
 <p align="left">
-  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/uku-renek-kronbergs" target="_blank">Uku Renek Kronbergs</a>  
-  <br>
-  📧 <b>Email:</b> <a href="mailto:uku.renek.kronbergs@ut.ee">uku.renek.kronbergs@ut.ee</a>
-</p>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/uku-renek-kronbergs" target="_blank">Uku Renek Kronbergs</a>
