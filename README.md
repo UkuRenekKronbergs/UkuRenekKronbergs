@@ -12,7 +12,6 @@ I’m especially interested in:
 
 - 🎮 **Game development and interactive design**  
 - 🔐 **Cybersecurity and systems architecture**
-- 
 ---
 
 ## ⚙️ Tools & Technologies  
