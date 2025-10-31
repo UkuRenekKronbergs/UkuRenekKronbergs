@@ -52,5 +52,4 @@ I’m especially interested in:
 <p>
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/uku-renek-kronbergs" target="_blank">Uku Renek Kronbergs</a>  
   <br>
-  📧 <b>Email:</b> <a href="mailto:uku.renek.kronbergs@ut.ee">uku.renek.kronbergs@ut.ee</a>
 </p>
